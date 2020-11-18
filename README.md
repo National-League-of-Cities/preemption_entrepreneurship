@@ -2,7 +2,7 @@
 The data in this repository consists of the inputs to our preemption and entrepreneurship project, funded by the Kauffman Foundation. The data allowed us to explore a state's propensity to preempt as well as the impact of that preemption on entrepreneurial outcomes
 
 ## About the Data
-The data here are broken up into four main bucekts: 1) preemption data; 2) state government data; 3) Kauffman data; and, 4) business and demographic data. 
+The data here are broken up into four main buckets: 1) preemption data; 2) state government data; 3) Kauffman data; and, 4) business and demographic data. 
 
 All data was collected from other sources, which are cited below. Some data were extrapolated, based on available data and to fill in years. Each bucket below includes a short description, codebook, and sources.
 
@@ -45,11 +45,11 @@ broadband:	Municipal Broadband preemption implementation year and all subsequent
 broadbandimplementation:	Year of municipal broadband preemption implementation
 
 #### Sources
-Economic Policy Institute. "Worker Rights Preemption in the U.S.: A Map of the Campaign to Suppress Worker Rights in the States." Aug. 2019. Web. 09 Nov. 2020.
+Economic Policy Institute. "Worker Rights Preemption in the U.S.: A Map of the Campaign to Suppress Worker Rights in the States." Aug. 2019. Web. 09 Nov. 2020. https://www.epi.org/preemption-map/
 
-Institute for Local Self-Reliance. "Community Network Map." Community Broadband Networks. Jan. 2020. Web. 09 Nov. 2020.
+Institute for Local Self-Reliance. "Community Network Map." Community Broadband Networks. Jan. 2020. Web. 09 Nov. 2020. https://muninetworks.org/communitymap
 
-Orms, Maria Elizabeth., and David Reed. States with Restrictions to Municipal Broadband Deployments and the Effects of the Restriction. Thesis. University of Colorado, 2013. 2013. Print.
+Orms, Maria Elizabeth., and David Reed. "States with Restrictions to Municipal Broadband Deployments and the Effects of the Restriction." Thesis. University of Colorado, 2013. 2013. Print. https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/02870w18r?locale=fr
 
 ### State government data
 This data represents the partisan makeup of each state government as well as measures of legislative professionalism. 
@@ -76,11 +76,11 @@ session.length:	Number of days the legislature is in session in each year
 legislatorsalary:	Dollar amount of a legislator's salary per year
 
 #### Sources
-Williams, Ben. "State Partisan Composition." State Partisan Composition. 2020. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx>.
+Williams, Ben. "State Partisan Composition." 2020. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/partisan-composition.aspx>.
 
-Saucedo, Selena. "2020 State Legislative Session Calendar." 2020 State Legislative Session Calendar. 2020. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/2020-state-legislative-session-calendar.aspx>.
+Saucedo, Selena. "2020 State Legislative Session Calendar." 2020. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/2020-state-legislative-session-calendar.aspx>.
 
-Zoch, Mandy. "2018 Legislator Compensation Information." 2018 Legislator Compensation Information. 2018. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/legislator-compensation-2018.aspx>.
+Zoch, Mandy. "2018 Legislator Compensation Information."2018. Web. 09 Nov. 2020. <https://www.ncsl.org/research/about-state-legislatures/legislator-compensation-2018.aspx>.
 
 ### Kauffman Indicators data
 The Kauffman Indicators were used to measure entrepreneurial outcomes. 
@@ -96,12 +96,12 @@ startup.job.creation..average...of.jobs.created.:	Average number of new startup 
 
 startup.early.survival.rate..percent.:	Percentage of startups still in business after more than one year
 
-opportunity.share.of.new.entrepreneaurs..percent.:	Percentage of entrepreneurs that started new businesses out of opportunity as opposed ot necessity
+opportunity.share.of.new.entrepreneaurs..percent.:	Percentage of entrepreneurs that started new businesses out of opportunity as opposed to necessity
 
-rate.of.new.entrepreneurs..percent.:	Percetnage of adults that become new entreprenuers in an average month, out of 100,000 adults
+rate.of.new.entrepreneurs..percent.:	Percentage of adults that become new entrepreneurs in an average month, out of 100,000 adults
 
 #### Sources
-Kauffman Foundation. "Early-Stage Entrepreneurship: Kauffman Indicators." Kauffman Indicators of Entrepreneurship. Web. 09 Nov. 2020. <https://indicators.kauffman.org/series/earlystage>.
+Kauffman Foundation. "Early-Stage Entrepreneurship: Kauffman Indicators."Web. 09 Nov. 2020. <https://indicators.kauffman.org/series/earlystage>.
 
 ### Business & Demographic Data
 This data was used for control variables and to measure other entrepreneurial outcomes. 
@@ -134,6 +134,6 @@ nonwhitepercent:	Percent of people that are non-white
 bachelors.percent:	Percent of people that have at least a Bachelor's Degree
 
 #### Sources
-U.S. Census Bureau. "Business Dynamics Statistics (BDS)." The United States Census Bureau. 17 Sept. 2020. Web. 09 Nov. 2020.
+U.S. Census Bureau. "Business Dynamics Statistics (BDS)." The United States Census Bureau. 17 Sept. 2020. Web. 09 Nov. 2020. https://www.census.gov/programs-surveys/bds.html
 
 US Census Bureau. "American Community Survey (ACS)." The United States Census Bureau. 22 Oct. 2020. Web. 09 Nov. 2020. <https://www.census.gov/programs-surveys/acs/>.
