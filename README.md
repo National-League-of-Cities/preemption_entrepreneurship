@@ -1,5 +1,7 @@
 # preemption_entrepreneurship
-The data in this repository consists of the inputs to our preemption and entrepreneurship project, funded by the Kauffman Foundation. The data allowed us to explore a state's propensity to preempt as well as the impact of that preemption on entrepreneurial outcomes
+The data in this repository consists of the inputs to our preemption and entrepreneurship project, funded by the Kauffman Foundation. The data allowed us to explore a state's propensity to preempt as well as the impact of that preemption on entrepreneurial outcomes.
+
+To better understand whether state preemption affects entrepreneurial outcomes, we examined seven policy areas known to affect the ability of localities to regulate businesses or employer-employee relations, such as minimum wage increase and municipal broadband. We also examined several indicators developed by the Kauffman Foundation, related to the rate of new business owners, the rate of new business owners who created a business out of choice instead of necessity, the number of jobs created in the first year of business, and the rate of survival in the first year of business. The results from a regression analysis suggest that, when aggregated, preemption of any of the seven policy areas over the period 2010-2018 does not statistically affect entrepreneurship.
 
 ## About the Data
 The data here are broken up into four main buckets: 1) preemption data; 2) state government data; 3) Kauffman data; and, 4) business and demographic data. 
