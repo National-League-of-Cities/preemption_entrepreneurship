@@ -115,14 +115,6 @@ state:	State
 
 year: Year
 
-estabs_entry_rate:	The number of new establishments divided by the average number of establishments, times 100
-
-estabs_exit_rate:	The number of establishments that exited divided by the average number of establishments, times 100
-
-job_creation_rate:	Rate of jobs created
-
-job_destruction_rate:	Rate of jobs lost
-
 agricultureemploymentpercent:	Percent of employees in the Agriculture sector
 
 retailemploymentpercent:	Percent of employees in the Retail sector
